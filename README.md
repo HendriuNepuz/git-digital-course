@@ -5,3 +5,4 @@
 ## Salvando modificações no Git (testando o diff)
 
 ## Testando novos comandos
+# uso do comando git push
